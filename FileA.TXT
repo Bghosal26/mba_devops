@@ -1,1 +1,1 @@
-"this is new file A" 
+"this is new file A" -- version 1
